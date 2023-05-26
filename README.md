@@ -1,5 +1,5 @@
 # Snippets
-A collection of code snippets for simple tasks that I use during my work and am able to share:
+A collection of code snippets for simple tasks that I use during my work:
 
 | File name | Short Description | Libraries and tools used |
 | :--------------------: | :---------------------: |:---------------------------:|
