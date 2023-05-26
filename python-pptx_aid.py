@@ -174,7 +174,8 @@ def plot_static(chart_position:int,
         for chart_series in chart.series:
             chart_series.data_labels.number_format = '#;#'
         
-
+# Functions for editing text data:
+        
 def edit_text(text:object, 
               font_name:str, 
               font_size:int, 
